@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d42d16f-0789-4909-b506-65ea3a2cee6d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML4 File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gLE6H8zbpJHUz3GT7q1LHTN3lL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GIT/Avocado_2/Avocado_2/Django_Review" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d42d16f-0789-4909-b506-65ea3a2cee6d" name="Default Changelist" comment="" />
+      <created>1597885296059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597885296059</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1179" y="367" key="#Notifications" timestamp="1598688399814">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1179" y="367" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1598688399814" />
+    <state x="828" y="178" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603789269438">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="178" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603789269438" />
+    <state x="960" y="304" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598596694173">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="960" y="304" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.960@0.0.1536.960" timestamp="1598596694173" />
+    <state x="1200" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1597998901724" />
+    <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1603809049982">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603809049982" />
+    <state x="-280" y="163" key="SettingsEditor" timestamp="1598401045369">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="-280" y="163" key="SettingsEditor/0.0.1536.960@0.0.1536.960" timestamp="1598401045369" />
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1598948891995">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1598948891995" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1599117868657">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1599117868657" />
+    <state x="1106" y="238" width="577" height="801" key="find.popup" timestamp="1598743885845">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1106" y="238" width="577" height="801" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1598743885845" />
+    <state x="1103" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1599115321748">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="627" y="197" width="672" height="603" key="search.everywhere.popup/0.0.1536.960@0.0.1536.960" timestamp="1598501180581" />
+    <state x="1103" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1599115321748" />
+  </component>
+</project>
